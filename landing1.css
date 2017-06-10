@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  background-color: white;
+  color: black;
+
+}
+
+h3 {
+	margin: 0;
+	background-color: white;
+	color: white;
+	padding: 15px 15px 8px 15px;
+
+}
+
+.nav {
+	margin: 0;
+	background-color: white;
+	color: black;
+	list-style: none;
+	text-align: center;
+	padding: 0px 0px 3px 0px;
+
+}
+
+.nav > li {
+		display: inline-block;
+		padding: 0 25px 0 25px;
+
+}
+
+.nav > li > a {
+		text-decoration: none;
+		color: black;
+
+}
+
+.nav > li > a:hover {
+  color: #e6e6e6;
+
+}
